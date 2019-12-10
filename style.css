@@ -1,0 +1,25 @@
+#title{
+    font-size: 30px;
+    
+}
+
+#output-area{
+    font-size: 60pt;
+
+}
+
+#winner-area{
+    font-size: 25pt;
+
+}
+
+body{
+    background-color: rgb(11, 82, 26);
+    
+}
+#poäng{
+    float: right;
+    margin-right: 100px;
+    background-color: rgb(11, 82, 26) ;
+
+}
